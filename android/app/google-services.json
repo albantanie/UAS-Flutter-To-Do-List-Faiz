@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "617043057768",
+    "project_id": "flutter-5730e",
+    "storage_bucket": "flutter-5730e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617043057768:android:d8bd78e24750fa6d5d6fdd",
+        "android_client_info": {
+          "package_name": "Robin.Do"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhuaG9BqDwDasC5Ay2oy6_j-23nlVIyU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
